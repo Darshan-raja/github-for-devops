@@ -192,4 +192,4 @@ Full Git Workflow Summary (Very Simple)
 4.	git commit -m "message" → file is tracked
 5.	git push origin main → file is uploaded to GitHub
 6.	If deleted by mistake → git restore file brings it back.
-cd
+this is some new changes 
